@@ -1,0 +1,48 @@
+{
+  "clients": [
+    {
+      "clientId": "T001",
+      "name": "Иван Иванов",
+      "age": 30,
+      "isVIP": false,
+      "registrationDate": "15/05/2023",
+      "preferredDestinations": [
+        "Италия",
+        "Франция"
+      ]
+    },
+    {
+      "clientId": "T002",
+      "name": "Анна Смирнова",
+      "age": 25,
+      "isVIP": true,
+      "registrationDate": "20/06/2023",
+      "preferredDestinations": [
+        "Мальдивы",
+        "Бали"
+      ]
+    },
+    {
+      "clientId": "T003",
+      "name": "Дмитрий Кузнецов",
+      "age": 40,
+      "isVIP": false,
+      "registrationDate": "10/07/2023",
+      "preferredDestinations": [
+        "Турция",
+        "ОАЭ"
+      ]
+    },
+    {
+      "clientId": "T004",
+      "name": "Екатерина Петрова",
+      "age": 35,
+      "isVIP": true,
+      "registrationDate": "05/08/2023",
+      "preferredDestinations": [
+        "Испания",
+        "Греция"
+      ]
+    }
+  ]
+}
